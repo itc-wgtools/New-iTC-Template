@@ -21,7 +21,7 @@ This is the first template that will be used from this repository.
 |This is a template for a PP-Module if the iTC needs to create on instead of a cPP (or in parallel). This is based on the cPP template but with some portions adjusted based on the differences between the two types of files.
 
 |SD-Template.adoc
-|This is the template for the Supporting Document. It has been created based on earlier templates as well as the supporting documents for several cPPs currently in use or in the process of being created.
+|This is the template for the Supporting Document. The Supporting Document is good for a cPP or a PP-Module. It has been created based on earlier templates as well as the supporting documents for several cPPs currently in use or in the process of being created.
 
 |PP-config-template.adoc
 |This is a template for creating a PP-Configuration with the cPP and another cPP/PP-Module/Package.
